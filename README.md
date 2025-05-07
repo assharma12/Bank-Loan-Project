@@ -29,7 +29,9 @@ This interactive Bank Loan Dashboard provides a comprehensive analysis of loan a
 - Executive-level KPIs with MoM comparisons
 - Built for data-driven insights and decision-making
 ## Overview Dashboard
-![Overview Dashboard]([path/to/your/overview-image.png](https://github.com/assharma12/Bank-Loan-Project/blob/028db3ef62bfd30180faec47a07744886f2626de/Screenshot%20Bank%20Loan%20overview.png))
+
+![Overview Dashboard](https://github.com/assharma12/Bank-Loan-Project/blob/08942aa53dd43ddf98047d6c270e82104d6d17a2/Screenshot%20Bank%20Loan%20overview.png)
 
 ## Summary Dashboard
+
 ![Summary Dashboard](https://github.com/assharma12/Bank-Loan-Project/blob/c8771558218894413f39ee3d5039169cd8f05efe/Screenshot%20Bank%20loan%20summary.png)
