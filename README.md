@@ -30,4 +30,4 @@ This interactive Bank Loan Dashboard provides a comprehensive analysis of loan a
 - Built for data-driven insights and decision-making
 
 ![Overview Dashboard](path/to/your/overview-image.png)
-![Summary Dashboard]https://github.com/assharma12/Bank-Loan-Project/blob/main/Screenshot%20Bank%20loan%20summary.png?raw=true
+![Summary Dashboard](https://github.com/assharma12/Bank-Loan-Project/blob/c8771558218894413f39ee3d5039169cd8f05efe/Screenshot%20Bank%20loan%20summary.png)
